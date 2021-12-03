@@ -1,0 +1,171 @@
+# INITIAL CONFIGS
+
+site_name: 'ManTAU'
+
+site_url: 'https://botanica.app.br/'
+
+site_dir: 'D:\HDD_Documents\Code_workspace\MkDocs_projects\Active_projects\mantau-pro'
+
+repo_url: 'https://github.com/biofsphere/ManTAU-Tres-Coroas-Material-Design'
+
+repo_name: 'ManTAU-Tres-Coroas-Material-Design'
+
+site_description: 'This website was developed to serve as a technical manual about urban trees for people that live or visit the city of Três Coroas in the state of Rio Grande do Sul'
+
+site_author: 'Fernando J. Soares' 
+
+copyright: 'Copyright &copy 2021, Município de Três Coroas, todos os direitos reservados'
+
+
+# PLUGINS
+
+#plugins:
+#    - tags:
+#        tags_file: palavras-chave.md
+#    - search:
+#        lang: 'pt'
+
+
+# EXTENSIONS
+
+markdown_extensions: 
+    - pymdownx.betterem
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.tabbed
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - abbr
+    - pymdownx.snippets
+    - attr_list
+    - def_list
+    - footnotes
+    - meta
+    - toc:
+        permalink: true
+        permalink_title: 'Siga para este conteúdo'
+        title: 'Conteúdos desta página'
+        toc_depth: 4
+    - pymdownx.tabbed:
+        alternate_style: true
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+        options:
+            custom_icons:
+                - overrides/.icons
+
+
+# THEME CONFIGS
+
+theme:
+    name: 'material'
+    custom_dir: 'overrides'
+
+## Theme pallete configs
+    palette: 
+    - scheme: default
+      primary: blue grey
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: orange 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+        
+## Theme font, icon, logo, nav and other configs
+    font:
+        text: 'Roboto'
+    icon:
+        admonition: 
+            info: 'fontawesome/solid/info-circle'
+    nav_style: 'dark'
+    locale: 'pt'
+    logo: 'img\Logo_prefeitura__2_-removebg-preview.png'
+    favicon: 'img\favicon.ico'
+    features: 
+        - 'navigation.top'
+        - 'navigation.instant'
+        - 'header.autohide'
+        - 'navigation.tracking'
+#        - 'navigation.tabs'
+        - 'navigation.sections'
+        - 'navigation.expand'
+
+
+# EXTRA CONFIGS
+extra_css: 
+    - 'stylesheets/extra.css'
+extra_javascript: 
+    - 'javascripts/extra.js'
+extra:
+    extra.logo: 
+    extra.version: 1.0.0
+    social:
+        - icon: 'fontawesome/brands/instagram'
+          link: https://www.instagram.com/prefeitura_trescoroas/
+          name: Três Coroas no Instagram
+        - icon: 'fontawesome/brands/github'
+          link: https://github.com/biofsphere/ManTAU-Tres-Coroas-Material-Design
+          name: ManTAU Três Coroas no GitHub
+    generator: true
+
+
+# NAVIGATION STRUCTURE
+
+nav:
+    - 1. INÍCIO: 'index.md'
+    - 2. AGRADECIMENTOS:
+        - 2.1. À Ivoti: '021-agradecemos-a-tc.md'
+        - 2.2. À Administração Pública: '022-agradecemos-a-admin.md'
+#        - 2.3. Às Instituições Parceiras: '023-agradecemos-as-instituicoes.md'
+        - 2.4. Créditos: '024-creditos.md'
+    - 3. PREFÁCIO:
+        - 3.1. Bem vindo à Cidade das Flores: '031-pref-cidade-verde.md'
+        - 3.2. Gestão pública ambiental: '032-pref-gestao-publica-ambiental.md'
+        - 3.3. Cidadania e arborização urbana: '033-pref-cidadania-e-arborizacao.md'
+    - 4. APRESENTAÇÃO:
+        - 4.1. Sobre o projeto: '041-apres-sobre-o-projeto.md'
+        - 4.2. Como participar: '042-apres-como-participar.md'
+        - 4.3. Como usar este manual: '043-apres-como-usar-o-manual.md'
+    - 5. INTRODUÇÃO:
+        - 5.1. Arborização urbana: '051-o-que-e-arborizacao.md'
+        - 5.2. Benefícios da arborização: '052-beneficios-da-arborizacao.md'
+        - 5.3. Dificuldades de convívio: '053-dificuldades-de-convivio.md'
+        - 5.4. Árvores são seres vivos: '054-arvores-sao-seres-vivos.md'
+    - 6. PLANEJAMENTO:
+        - 6.1. Importância do planejamento: '061-importancia-do-planejamento.md'
+        - 6.2. Localização genérica: '062-localizacao-generica.md'
+        - 6.3. Posicionamento específico: '063-posicionamento-especifico.md'
+        - 6.4. Diversidade arbórea: '064-diversidade-arborea.md'
+        - 6.5. Condições ambientais: '065-condicoes-ambientais.md'
+    - 7. MANEJO:
+        - 7.1. Plantio: '071-plantio.md'
+        - 7.2. Podas: '072-podas.md'
+        - 7.3. Cuidados: '073-cuidados.md'
+        - 7.4. Remoção: '074-remocao.md'
+    - 8. LEGISLAÇÃO:
+        - 8.1. Federal: '081-federal.md'
+        - 8.2. Estadual: '082-estadual.md'
+        - 8.3. Municipal: '083-municipal.md'
+    - 9. CATÁLOGO DE ESPÉCIES:
+        - 9.1. O que plantar onde: '091-o-que-plantar-onde.md'
+        - 9.2. O que não plantar: '092-o-que-nao-plantar.md'
+    - 10. REFERÊNCIAS: 
+        - 10.1. Citadas: '101-referencias-citadas.md'
+        - 10.2. Consultadas: '102-referencias-consultadas.md'
+    - 11. ANEXOS: 
+        - 11.1. Lista de variáveis: '111-variaveis.md'
+        - 11.2. Análise de risco: '112-risco.md'
+        - 11.3. Glossário de termos técnicos: '113-glossario.md'
+        - 11.4. Lista de palavras-chave: '114-palavras-chave.md'

@@ -1,0 +1,23 @@
+# 3.3. **CIDADANIA E ARBORIZAÇÃO**
+
+<p style = "text-align: right"> Texto de <em><b>Fernando J Soares</b></em></p>
+<p style = "text-align: right"><em><b>Biólogo</b></em></p>
+
+A espécie humana é social. Está no DNA de todos. Isso significa muitas coisas, mas talvez a principal é que desenvolvemos habilidades para interagir uns com os outros de maneira cívica. Não depende exclusivamente das ideias. É também biológico. Muitos tem dificuldades para entender isso porque também somos uma espécie cultural, isto é, das ideologias, das verdades, dos conceitos e outras tantas abstrações que defenderemos fervorosamente, justamente porque somos sociais. É também por elas, as ideias, que nos ligamos uns aos outros. E para deixar ainda mais complexo e bonito, nesse imaginário todo existem relações de dependência física entrelaçadas na cultura. Necessidades que, se não preenchidas, precarizam nossa saúde. Precisamos de ar limpo, água potável, alimento sadiu, abrigo eficaz, cura para as mazelas e um ambiente saudável para viver tudo que podemos viver.  
+
+
+Coloque essa perspectiva numa linha de tempo milenar e chegaremos à emergência de comunidades, vilarejos, cidades, nações, civilizações. Somos uma espécie criativa, e nesse percurso histórico-civilizatório todo sabe quem estava lá nos acompanhando por todo esse tempo? Sim: as árvores.  
+
+
+Não há como escapar desta fatídica responsabilidade, isto é, do fato de que se vivemos do, e no ambiente, somos responsáveis pelo ambiente. Ignorar isso é ignorara a si mesmo. É claro que as ideias virão também para nos distrair ou nos prover com artimanhas políticas que possam nos dispensar do esforço físico e mental que se responsabilizar pelo ambiente traz. Sim, traremos todo tipo de desculpas para não se envolver com o incômodo de cuidar do que não nos interessa fazê-lo no momento. Faz parte. Mas isso, esse desvio de atenção não desfaz o fato: a responsabilidade permanece. E quanto mais resistirmos a ela, pior vai ficando. As notícias comprovam e o ambiente, como tem estado, também. Passam os dias em rodas de parentes e amigos e manifestamos nosso amor pelos filhos e netos, mas no que tange nossa relação com o ambiente que irão herdar, perdura ainda popular a nossa incoerência.  
+
+
+Portanto, para alcançar o efeito necessário optou-se aqui pela abrangência e a profundidade do pensar antes de abordarmos tecnicamente a arborização urbana, simplesmente porque a realidade está evidentemente expressa com uma clareza absurdamente cristalina na atual arborização urbana de Três Coroas. Existem tocos por todo lado, espécies invasoras e inclusive prejudiciais à saúde em muitas das calçadas desta cidade. Existem árvores estranguladas, mal podadas, infestadas de parasitas, quebradas sem reparo, e principalmente árvores crescendo onde talvez aquela espécie ou aquele local não seriam o mais adequado.  
+
+
+Há que sermos maduro. Isso NÃO é culpa de qualquer administração pública de qualquer tempo. Para transformar esse padrão, esse viés cultural, essa permanente tendência à desatenção, precisamos ao menos um minuto que seja, para refletir sobre qual é a parte que nos cabe como cidadãos no cuidado e atenção às árvores do município. Numa sociedade de livre mercado, não há máquina pública capaz de cuidar sozinha da quantidade de árvores que uma cidade do porte de Três Coroas comporta. Repito: sem interesse social, sem participação, sem voluntáriado, sem política pública construída de forma participativa, sem educação e comprometimento de seus cidadãos para com sua floresta urbana, suas árvores e os tantos benefícios que estas trazem para o ambiente urbano jamais alcançarão harmonia estética e funcional com a cidade. Se optarmos por deixar ao cargo exclusivo de qualquer administração pública fazer isso sozinha, excludente, não sairemos do lugar. É simplesmente muito caro. Aliás, qualquer iniciativa de governo que não possa contar com apoio da população, está fadada ao fracasso.
+
+
+Por isso, precisamos que você também participe e se responsabilize pelas árvores. É simples assim. Orientes-se pelas regras de convívio existentes, pela legislação, pelo *know-how* técnico disponível. Observe as árvores. Traga suas ideias, sua relação com as árvores que você adminira ou gostaria de admirar, sua lucidez, seu civismo para juntos conduzirmos o crescimento e a evolução desta cidade para a beleza do convívio com as suas árvores. Foi para isso que esse manual foi escrito e disponibilizado na Web: para, em caso de dúvidas, você poder consultá-lo e fazer bom uso daquilo que aprender aqui. Podemos atualizá-lo sempre que possível. Aproveite!
+
+---
