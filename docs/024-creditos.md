@@ -1,6 +1,8 @@
 # 2.4. **CRÉDITOS**
 
-Diversas imagens foram extraídas de referências de domínio público cuja publicação é permitida nos termos da fonte. Outras foram especificamente produzidas para este manual conforme autores abaixo. E outras ainda foram devidamente creditadas a seus autores e/ou detentores dos direitos autorais. As fontes respectivas às imagens deste manual, quando disponíveis, encontram-se anexadas à legenda de cada imagem. Caso houver alguma imagem cuja publicação tenha sido indevida, solicita-se encaminhar solicitação de correção, deleção, ou edição dos créditos para <a href = "mailto:meio.ambiente@ivoti.rs.gov.br">meio.ambiente@ivoti.rs.gov.br</a>.
+## 2.4.1 ***Às pessoas e instituições***
+
+Como a grande maioria das publicações, sejam elas impressas ou digitais, esta também foi construída a muitas mãos.
 
 ---
 
@@ -15,3 +17,7 @@ Diversas imagens foram extraídas de referências de domínio público cuja publ
 **Revisão técnica**: Fernando Jaeger Soares
 
 ---
+
+## 2.4.2. ***Às imagens***
+
+Diversas imagens foram extraídas de referências de domínio público cuja publicação é permitida nos termos da fonte. Outras foram especificamente produzidas para este manual conforme autores abaixo. E outras ainda foram devidamente creditadas a seus autores e/ou detentores dos direitos autorais. As fontes respectivas às imagens deste manual, quando disponíveis, encontram-se anexadas à legenda de cada imagem. Caso houver alguma imagem cuja publicação tenha sido indevida, solicita-se encaminhar solicitação de correção, deleção, ou edição dos créditos para <a href = "mailto:meio.ambiente@ivoti.rs.gov.br">meio.ambiente@ivoti.rs.gov.br</a>.

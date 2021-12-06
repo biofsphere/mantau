@@ -2,19 +2,19 @@
 
 site_name: 'ManTAU'
 
-site_url: 'https://botanica.app.br/'
+site_url: 'https://ecopraxis.com.br/floresta-urbana-ivoti.bio.br/mantau-pro/index.html'
 
 site_dir: 'D:\HDD_Documents\Code_workspace\MkDocs_projects\Active_projects\mantau-pro'
 
-repo_url: 'https://github.com/biofsphere/ManTAU-Tres-Coroas-Material-Design'
+repo_url: 'https://github.com/biofsphere/mantau.git'
 
-repo_name: 'ManTAU-Tres-Coroas-Material-Design'
+repo_name: 'mantau'
 
-site_description: 'This website was developed to serve as a technical manual about urban trees for people that live or visit the city of Três Coroas in the state of Rio Grande do Sul'
+site_description: 'This website was developed to serve as a technical manual about urban trees for people that live or visit the city of Ivoti in the state of Rio Grande do Sul'
 
 site_author: 'Fernando J. Soares' 
 
-copyright: 'Copyright &copy 2021, Município de Três Coroas, todos os direitos reservados'
+copyright: 'Copyright &copy 2021, Quadrat Assessoria e Desenvolvimento Socioambiental Ltda., todos os direitos reservados'
 
 
 # PLUGINS
@@ -113,11 +113,11 @@ extra:
     extra.version: 1.0.0
     social:
         - icon: 'fontawesome/brands/instagram'
-          link: https://www.instagram.com/prefeitura_trescoroas/
-          name: Três Coroas no Instagram
+          link: https://www.instagram.com/prefeituradeivoti/
+          name: Ivoti no Instagram
         - icon: 'fontawesome/brands/github'
-          link: https://github.com/biofsphere/ManTAU-Tres-Coroas-Material-Design
-          name: ManTAU Três Coroas no GitHub
+          link: https://github.com/biofsphere/mantau
+          name: ManTAU Ivoti no GitHub
     generator: true
 
 
@@ -126,12 +126,12 @@ extra:
 nav:
     - 1. INÍCIO: 'index.md'
     - 2. AGRADECIMENTOS:
-        - 2.1. À Ivoti: '021-agradecemos-a-tc.md'
+        - 2.1. À Ivoti: '021-agradecemos-a-ivoti.md'
         - 2.2. À Administração Pública: '022-agradecemos-a-admin.md'
 #        - 2.3. Às Instituições Parceiras: '023-agradecemos-as-instituicoes.md'
         - 2.4. Créditos: '024-creditos.md'
     - 3. PREFÁCIO:
-        - 3.1. Bem vindo à Cidade das Flores: '031-pref-cidade-verde.md'
+        - 3.1. Bem vindo à Cidade das Flores: '031-pref-cidade-das-flores.md'
         - 3.2. Gestão pública ambiental: '032-pref-gestao-publica-ambiental.md'
         - 3.3. Cidadania e arborização urbana: '033-pref-cidadania-e-arborizacao.md'
     - 4. APRESENTAÇÃO:
